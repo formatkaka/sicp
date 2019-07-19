@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n322",
+				"n32222"
+			],
+			[
+				"n3222",
+				"n32221"
+			],
+			[
+				"load",
+				"loadFileStub"
+			],
+			[
+				"pptvr",
+				"pptvrdb"
+			],
+			[
+				"proj",
+				"projectid"
+			],
+			[
+				"met",
+				"metricHeader"
+			],
+			[
+				"dim",
+				"dimension"
+			],
+			[
+				"pri",
+				"print_response"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git comm",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"scheme",
+				"Set Syntax: Scheme"
+			],
+			[
+				"schem",
+				"Set Syntax: Scheme"
+			],
+			[
+				"sche",
+				"Set Syntax: Scheme"
+			],
+			[
+				"sublimere",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"inser",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prett",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"enab",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"boxy ",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"jspre",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/siddhant/Learning/sicp"
+	],
+	"file_history":
+	[
+		"/Users/siddhant/Learning/sicp/ex1-5.lisp",
+		"/Users/siddhant/Learning/sicp/ex1-4.lisp",
+		"/Users/siddhant/Learning/sicp/sicp.sublime-project",
+		"/Users/siddhant/Learning/sicp/ex1-3.lisp",
+		"/Users/siddhant/Learning/sicp/logical.lisp",
+		"/Users/siddhant/Learning/sicp/conditional.lisp",
+		"/Users/siddhant/Learning/sicp/ex1-2.lisp",
+		"/Users/siddhant/Documents/test.lisp",
+		"/Users/siddhant/Downloads/playlist.m3u8",
+		"/Users/siddhant/hls/playlist.m3u8",
+		"/Users/siddhant/Downloads/JewelVJ.unitypackage",
+		"/Users/siddhant/Learning/unity/VJ/Assets/OVR/Scripts/OVRDisplay.cs",
+		"/Users/siddhant/Work/melzo/melzo-docs/docs/tech/documentation/small_commands.md",
+		"/Users/siddhant/Desktop/fizzbuzz.py",
+		"/Users/siddhant/Downloads/Vibeo index.html",
+		"/Users/siddhant/Work/melzo/melzo-pocs/iframe-melzo/index.html",
+		"/Users/siddhant/Work/melzo/melzo-viewer/src/viewer/2d/js/client-registration/registration-form.jsx",
+		"/Users/siddhant/Work/pptvr/PPTVR-Webapp/common/build/config-constants.js",
+		"/Users/siddhant/Work/pptvr/PPTVR-Webapp/core/create/project-container/project-sound/projectsound.factory.js",
+		"/Users/siddhant/Work/pptvr/PPTVR-Webapp/core/create/project-container/project-sound/project-sound.drv.js",
+		"/Users/siddhant/Work/pptvr/PPTVR-Webapp/core/create/project-container/project-network.factory.js",
+		"/Users/siddhant/Work/pptvr/PPTVR-Webapp/core/create/project-container/project-local.factory.js",
+		"/Users/siddhant/Documents/cr.json",
+		"/Users/siddhant/Music/zz.html",
+		"/Users/siddhant/Music/untitled.js",
+		"/Users/siddhant/Work/other/pune technofox/public/index.html",
+		"/Users/siddhant/Work/melzo/melzo-viewer/node_modules/react-intl-tel-input/dist/main.css",
+		"/Users/siddhant/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/siddhant/Documents/map.js",
+		"/Users/siddhant/Documents/google-map.html",
+		"/Users/siddhant/Documents/map.html",
+		"/Users/siddhant/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/siddhant/Downloads/5c987899c9e77c0001edfd25-sceneChangeManual-2019-03-25T07-00-00.000Z.json",
+		"/Users/siddhant/Work/melzo/melzo-viewer/public/about-us/index.html",
+		"/Users/siddhant/Desktop/scrum_process_atlassian.svg",
+		"/Users/siddhant/Downloads/generateCubemap-0c6c49c0-70d6-4248-ab9b-72162a4f0632/processors/cubemap.processor.js",
+		"/Users/siddhant/Downloads/generateCubemap-0c6c49c0-70d6-4248-ab9b-72162a4f0632/node_modules/canvas/package.json",
+		"/Users/siddhant/Work/melzo/melzo-static-pages/public/about-us/firebase-debug.log",
+		"/Users/siddhant/Downloads/generateCubemap-0c6c49c0-70d6-4248-ab9b-72162a4f0632-1/processors/cubemap.processor.js",
+		"/Users/siddhant/Downloads/index.html",
+		"/Applications/krpano-1.19-pr16/viewer/krpano.js",
+		"/Applications/krpano-1.19-pr16/vtour/tour.html",
+		"/Applications/krpano-1.19-pr16/vtour/tour.xml",
+		"/Users/siddhant/Downloads/Gymtest/intents/gym.diet_usersays_en.json",
+		"/Users/siddhant/Downloads/Gymtest/entities/Protein_entries_en.json",
+		"/Users/siddhant/Learning/acloud-dl/acloud/_extract.py",
+		"/Users/siddhant/Learning/acloud-dl/acloud-dl.py",
+		"/Users/siddhant/Learning/acloud-dl/cookie.txt",
+		"/Users/siddhant/Downloads/resolution/reso.html",
+		"/Users/siddhant/Downloads/dino.json",
+		"/Users/siddhant/Work/melzo/melzo-docs/mkdocs.yml",
+		"/Users/siddhant/Work/melzo/melzo-docs/docs/tech/documentation/sdk/sdk.md",
+		"/Users/siddhant/Work/melzo/melzo-docs/docs/tech/documentation/sdk.md",
+		"/Users/siddhant/Work/melzo/melzo-viewer/src/viewer/vr/aframe/components/c-google-analytics.js",
+		"/Users/siddhant/Work/melzo/melzo-viewer/src/common/utils/downloader.js",
+		"/Users/siddhant/Work/melzo/melzo-viewer/tests/downloader.test.js",
+		"/Users/siddhant/Work/melzo/melzo-docs/docs/tech/documentation/aws/architecure.md",
+		"/Users/siddhant/Work/melzo/melzo-docs/docs/tech/documentation/testing.md",
+		"/Users/siddhant/Work/melzo/melzo-transcoding-service/video-processing/2d/mpd.sh",
+		"/Users/siddhant/Movies/courses/OS_FrontendMaster-dl/extractor/spider.py",
+		"/Users/siddhant/Desktop/share-greeting-svg",
+		"/Users/siddhant/Desktop/zz.csv",
+		"/Users/siddhant/Other/certs/fk-apsouth1.pem",
+		"/Users/siddhant/Work/pptvr/PPTVR-Server/config.js",
+		"/Users/siddhant/Work/pptvr/PPTVR-Webapp/dist/pdf.js",
+		"/Users/siddhant/Work/melzo/df-server/app.js",
+		"/Users/siddhant/ga-reader.py",
+		"/Users/siddhant/Work/internal-server/assets/generic/chevron-down.svg",
+		"/Users/siddhant/Desktop/center.html",
+		"/Users/siddhant/Work/internal-server/assets/generic/chevron-up.svg",
+		"/Users/siddhant/Work/internal-server/mock/discovery.json",
+		"/Users/siddhant/Work/internal-server/assets/generic/search.svg",
+		"/Users/siddhant/Work/melzo/melzo-docs/docs/tech/documentation/discovery.md",
+		"/Users/siddhant/Work/internal-server/assets/generic/ham.svg",
+		"/Users/siddhant/Work/melzo/melzo-transcoding-service/video-processing/2d/hls.sh",
+		"/Users/siddhant/Downloads/aws-csa-9eeeee7c-b958-4827-bef1-69e7b5b54b90.sh",
+		"/Users/siddhant/Work/internal-server/assets/viewer/oauth-facebook.svg",
+		"/Users/siddhant/Work/internal-server/assets/viewer/oauth-google.svg",
+		"/Users/siddhant/Work/internal-server/assets/viewer/oauth-twitter.svg",
+		"/Users/siddhant/Work/internal-server/assets/viewer/r-back-circle.svg",
+		"/Users/siddhant/Downloads/google.svg",
+		"/Users/siddhant/Downloads/pptvr-nightly-firebase-adminsdk-25ipz-e342883e1d.json",
+		"/Users/siddhant/Pictures/desk.json",
+		"/Users/siddhant/Downloads/cym-xrsuse-56843e0db116.json",
+		"/Users/siddhant/Work/melzo/melzo.com/src/functions/index.js",
+		"/Users/siddhant/Downloads/sitemap.xml",
+		"/Users/siddhant/Other/shade/css/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 312.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "sicp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
