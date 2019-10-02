@@ -1,0 +1,31 @@
+;(define (ends-e sentence)
+;  (if (null? sentence)
+;      (print '(Ending))
+      ;(begin (print (car sentence))
+	     ;(ends-e (cdr sentence))
+      ;)      
+;      (begin (print (car sentence))
+;      		  (ends-e (cdr sentence)))      
+;  )
+;)
+
+(define (ends-e sentence)
+  (if (null? sentence)
+      '()
+      (cons (k (car sentence)) (ends-e (cdr sentence)))
+      )
+  )
+
+(define (wordendswith word)
+  (cond ((string=? (getlastchar (string word)) "e") word ))
+ )
+
+(define (k w)
+  (w))
+
+(define (getlastchar word)
+  (string (string-ref word (- (string-length word) 1)))
+)
+	 
+(define (print word)
+  word)

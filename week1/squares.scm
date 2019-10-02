@@ -1,0 +1,13 @@
+
+
+(define (squares list)
+	(if (null? list)
+	'()
+	 (cons (square (car list))
+	  (squares (cdr list)))
+	)
+)
+	
+
+(define (square num)
+  (* num num))
